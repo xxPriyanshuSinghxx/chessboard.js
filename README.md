@@ -1,7 +1,7 @@
-# ChessBoard.js Documentation
+# chessboard.js Documentation
 
 ## Overview
-The `ChessBoard` class is a comprehensive JavaScript library for creating and managing a chessboard on a web page. It provides features such as drag-and-drop functionality, highlighting legal moves, handling castling, en passant, and more. This class is designed to be flexible and customizable, making it suitable for various chess-related applications.
+The `Chessboard` class is a comprehensive JavaScript library for creating and managing a chessboard on a web page. It provides features such as drag-and-drop functionality, highlighting legal moves, handling castling, en passant, and more. This class is designed to be flexible and customizable, making it suitable for various chess-related applications.
 
 ## Features
 - **Drag-and-drop pieces**
@@ -12,7 +12,7 @@ The `ChessBoard` class is a comprehensive JavaScript library for creating and ma
 - **Coordinates display**
 - **Sound effects for moves**
 
-## Class: `ChessBoard`
+## Class: `Chessboard`
 
 ### Properties
 - `#board`: The DOM element for the chessboard.
@@ -137,4 +137,4 @@ Plays a sound for a given move.
 
 ---
 
-This documentation provides a detailed overview of the `ChessBoard` class, its properties, methods, and functionalities. For a complete understanding, refer to the code comments and inline documentation in the `chessBoard.js` file.
+This documentation provides a detailed overview of the `Chessboard` class, its properties, methods, and functionalities. For a complete understanding, refer to the code comments and inline documentation in the `chessBoard.js` file.
